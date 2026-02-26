@@ -1,4 +1,4 @@
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://168.231.101.119:4040/api/v1';
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://168.231.101.119:4000/api/v1';
 
 // ── Token Management ─────────────────────────────────────
 
