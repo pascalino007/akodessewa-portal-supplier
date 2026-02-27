@@ -98,7 +98,7 @@ npm install
 npm run dev
 ```
 
-3. Open [http://168.231.101.119:3000](http://168.231.101.119:3000) in your browser
+3. Open [https://api.aakodessewa.com/:3000](https://api.aakodessewa.com/:3000) in your browser
 
 4. Login with any email and password (demo mode)
 

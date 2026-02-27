@@ -52,7 +52,7 @@ Your VPS should have:
 ## Access Your Application
 
 After deployment, your application will be available at:
-`http://168.231.101.119`
+`https://api.aakodessewa.com/`
 
 ## Monitoring
 
