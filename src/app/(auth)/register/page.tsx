@@ -149,7 +149,7 @@ export default function RegisterPage() {
     
     try {
       // Step 1: Register the supplier using the correct endpoint
-      const registerResponse = await fetch(`${process.env.NEXT_PUBLIC_API_URL || 'https://api.aakodessewa.com/api/api/v1'}/auth/register/supplier`, {
+      const registerResponse = await fetch(`${process.env.NEXT_PUBLIC_API_URL || 'https://api.aakodessewa.com/api/v1'}/auth/register/supplier`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
